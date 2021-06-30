@@ -1,0 +1,6 @@
+C:\Users\TPC\RiderProjects\Management\Management\bin\Debug\Management.exe
+C:\Users\TPC\RiderProjects\Management\Management\bin\Debug\Management.pdb
+C:\Users\TPC\RiderProjects\Management\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\TPC\RiderProjects\Management\Management\obj\Debug\Management.csproj.CoreCompileInputs.cache
+C:\Users\TPC\RiderProjects\Management\Management\obj\Debug\Management.exe
+C:\Users\TPC\RiderProjects\Management\Management\obj\Debug\Management.pdb
